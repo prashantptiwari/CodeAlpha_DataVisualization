@@ -1,0 +1,19 @@
+CODEALPHA - DATA VISUALIZATION REPORT
+==========================================
+
+Average scores by subject:
+Math       74.13
+Science    76.30
+English    75.60
+
+Overall average score: 75.34
+Highest average: Meera (95.67)
+Lowest average: Ishaan (47.67)
+
+Chart interpretation:
+1. The subject comparison chart shows mean scores.
+2. The student chart compares average performance.
+3. The attendance chart shows the relationship between attendance and average scores.
+4. The box plot compares score distributions by subject.
+
+Note: This is a small illustrative dataset. Relationships do not prove causation, and the results cannot be generalized to all students.
